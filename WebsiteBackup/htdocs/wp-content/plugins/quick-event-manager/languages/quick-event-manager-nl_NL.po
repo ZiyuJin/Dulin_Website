@@ -1,0 +1,2658 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quick Event Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed May 06 2015 16:55:02 GMT+0100 (BST)\n"
+"PO-Revision-Date: Wed Dec 09 2015 09:09:33 GMT+0100\n"
+"Last-Translator: Ruud Haan <info@rhfw.nl>\n"
+"Language-Team: \n"
+"Language: Dutch\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: nl_NL"
+
+#. Base ID
+#: ../quick-event-widget.php:8
+msgid "Quick Event List"
+msgstr ""
+
+#. Base ID
+#: ../quick-event-widget.php:115
+msgid "Quick Event Calendar"
+msgstr ""
+
+#. Name of the plugin
+msgid "Quick Event Manager"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.quick-plugins.com/quick-event-manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple event manager. There is nothing to configure, all you need is an "
+"event and the shortcode."
+msgstr ""
+
+#. Author of the plugin
+msgid "aerin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.quick-plugins.com"
+msgstr ""
+
+#: ../quick-event-options.php:28
+msgid "Full Description"
+msgstr "Volledige omschrijving"
+
+#: ../quick-event-options.php:40
+msgid "From"
+msgstr "Van"
+
+#: ../quick-event-options.php:41
+msgid "until"
+msgstr "tot"
+
+#: ../quick-event-options.php:42
+msgid "At"
+msgstr "bij"
+
+#: ../quick-event-options.php:55
+msgid "Find out more..."
+msgstr "Meer informatie..."
+
+#: ../quick-event-options.php:56
+msgid "No event found"
+msgstr "Geen evenement gevonden"
+
+#: ../quick-event-options.php:59
+msgid "Return to Event list"
+msgstr "Terug naar evenementenoverzicht"
+
+#: ../quick-event-options.php:69
+#, fuzzy
+msgid "Download Event to Calendar"
+msgstr "Download evenement naar agenda"
+
+#: ../quick-event-options.php:71
+msgid "Timezone:"
+msgstr "Tijdzone:"
+
+#: ../quick-event-options.php:72
+msgid "time"
+msgstr "tijd"
+
+#: ../quick-event-options.php:118
+msgid "Starts"
+msgstr "Start"
+
+#: ../quick-event-options.php:119
+msgid "Ends"
+msgstr "Einde"
+
+#: ../quick-event-options.php:130
+msgid "Event Categories:"
+msgstr "Evenement categorie"
+
+#: ../quick-event-options.php:134
+msgid "Current Category:"
+msgstr "Huidige categorie"
+
+#: ../quick-event-options.php:155
+#, fuzzy
+msgid "View as calendar"
+msgstr "Als kalender tonen"
+
+#: ../quick-event-options.php:157
+msgid "View as a list of events"
+msgstr "Als evenementenoverzicht tonen"
+
+#: ../quick-event-options.php:172
+msgid "Event Key:"
+msgstr "Evenement sleutel:"
+
+#: ../quick-event-options.php:223
+msgid "New registration for"
+msgstr "Nieuwe registratie voor"
+
+#: ../quick-event-options.php:224
+msgid "Register for this event"
+msgstr "Registreer voor dit evenement"
+
+#: ../quick-event-options.php:225
+msgid "Enter your details below"
+msgstr "Voer hieronder uw gegevens in"
+
+#: ../quick-event-options.php:226
+msgid "Thank you for registering"
+msgstr "Bedankt voor uw registratie"
+
+#: ../quick-event-options.php:227
+msgid "We will be in contact soon"
+msgstr "Wij nemen snel contact op"
+
+#: ../quick-event-options.php:228
+msgid "Your Name"
+msgstr "Uw naam"
+
+#: ../quick-event-options.php:229
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: ../quick-event-options.php:230
+msgid "Telephone Number"
+msgstr "Telefoonnummer"
+
+#: ../quick-event-options.php:231
+msgid "Number of places required"
+msgstr "Aantal gewenste plaatsen"
+
+#: ../quick-event-options.php:233
+msgid "I will not be attending this event"
+msgstr "Ik zal niet deelnemen aan dit evenement"
+
+#: ../quick-event-options.php:234 ../quick-event-options.php:235
+msgid "More Information"
+msgstr "Meer informatie"
+
+#: ../quick-event-options.php:236 ../quick-event-options.php:237
+msgid "Separate,With,Commas"
+msgstr "Scheiden,Met,Komma’s"
+
+#: ../quick-event-options.php:239
+msgid "Fill in this field"
+msgstr "Dit veld invullen"
+
+#: ../quick-event-options.php:241
+msgid "Enter all names:"
+msgstr "Voer alle namen in:"
+
+#: ../quick-event-options.php:243
+msgid "I agree to the Terms and Conditions"
+msgstr "Ik ga akkoord met de (algemene) voorwaarden"
+
+#: ../quick-event-options.php:249
+#, fuzzy
+msgid "Please complete the form"
+msgstr "Vul het formulier aan"
+
+#: ../quick-event-options.php:250
+msgid "Register"
+msgstr "Registreer"
+
+#: ../quick-event-options.php:252
+msgid "Look who's coming: "
+msgstr "Zie wie er komen:"
+
+#: ../quick-event-options.php:253 ../quick-event-options.php:255
+msgid "There are"
+msgstr "Er zijn"
+
+#: ../quick-event-options.php:254
+msgid "places available."
+msgstr "plaatsen beschikbaar."
+
+#: ../quick-event-options.php:256
+msgid "people coming."
+msgstr "mensen die komen."
+
+#: ../quick-event-options.php:259
+#, fuzzy
+msgid "Registration is closed"
+msgstr "Registratie is niet meer mogelijk"
+
+#: ../quick-event-options.php:261
+msgid "Your name has been added to the waiting list"
+msgstr "Uw naam is toegevoegd aan de wachtrij"
+
+#: ../quick-event-options.php:262
+msgid "But you can register for the waiting list"
+msgstr "Maar u kan zich op de wachtrij aanmelden."
+
+#: ../quick-event-options.php:264
+msgid "Your registration is awaiting approval"
+msgstr "Uw registratie wacht op goedkeuring"
+
+#: ../quick-event-options.php:265
+msgid "Return to the event"
+msgstr "Ga terug naar het evenement"
+
+#: ../quick-event-options.php:271
+msgid "Send registration details to your email address"
+msgstr "Verzend de registratie informatie naar uw emailadres"
+
+#: ../quick-event-options.php:272
+msgid "You are already registered for this event"
+msgstr "U bent al geregistreerd voor dit evenement"
+
+#: ../quick-event-options.php:273
+msgid "You have been removed from the list"
+msgstr "U bent van de lijst verwijderd."
+
+#: ../quick-event-options.php:275
+msgid "Your Details have been flagged as spam"
+msgstr "Uw gegevens zijn als spam gemarkeerd"
+
+#: ../quick-event-options.php:279 ../quick-event-options.php:305
+msgid "Coupon code"
+msgstr ""
+
+#: ../quick-event-options.php:281
+#, fuzzy
+msgid "Pay on arrival"
+msgstr "Betalen bij aankomst"
+
+#: ../quick-event-options.php:295
+msgid "Waiting for PayPal"
+msgstr "Wachten op PayPal"
+
+#: ../quick-event-options.php:299
+msgid "Register and Pay"
+msgstr "Registreer en betaal"
+
+#: ../quick-event-options.php:303
+msgid "Complete"
+msgstr ""
+
+#: ../quick-event-options.php:373
+msgid "Your registration details"
+msgstr "Uw registratie informatie"
+
+#: ../quick-event-editor.php:107
+msgid ""
+"Start times in the format 8.23 am/pm, 8.23, 8:23 and 08:23 will be used to "
+"order events by time and date. All other formats will display but won't "
+"contribute to the event ordering"
+msgstr ""
+"Starttijd in het formaat 8.23 am/pm, 8.23, 8:23 en 08:23 wordt gebruikt om "
+"evenementen te sorteren op tijd en datum. Alle andere formaten worden "
+"getoond maar hebben geen invloed op de sortering."
+
+#: ../quick-event-editor.php:195
+msgid "Places Available"
+msgstr "Plaatsen beschikbaar"
+
+#: ../quick-event-editor.php:200
+msgid "Add a free places counter to the registration form"
+msgstr "Voeg een vrije plaatsen teller toe aan het registratieformulier"
+
+#: ../quick-event-editor.php:200
+msgid "Registration form settings"
+msgstr "Registratieformulier instellingen"
+
+#: ../quick-event-editor.php:204
+msgid "Link to paypal after registration"
+msgstr "Link naar PayPal na registratie"
+
+#: ../quick-event-editor.php:204
+msgid "Payment settings"
+msgstr "Betalingen instellingen"
+
+#: ../quick-event-editor.php:208
+msgid "Hide this event in the event list (only display on the calendar)"
+msgstr "Verberg dit evenement (toon alleen op de kalender)"
+
+#: ../quick-event-editor.php:221
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: ../quick-event-editor.php:221
+#, fuzzy
+msgid "Only use once or you will get lots of duplicated events"
+msgstr "Eenmaal gebruiken anders krijgt u heel veel evenementen"
+
+#: ../quick-event-editor.php:224
+msgid "Number of repetitions"
+msgstr "Aantal herhalingen"
+
+#: ../quick-event-editor.php:233
+msgid "Attendees"
+msgstr "Deelnemers"
+
+#: ../quick-event-editor.php:233
+msgid "names and emails collected from the"
+msgstr "namen en e-mailadressen verzameld van het"
+
+#: ../quick-event-editor.php:233
+msgid "registration form"
+msgstr "registratieformulier"
+
+#: ../quick-event-editor.php:238
+#, fuzzy
+msgid "View Full Registration Details"
+msgstr "Bekijk alle registratie informatie"
+
+#: ../quick-event-editor.php:253
+#, fuzzy
+msgid "Use custom form settings"
+msgstr "Gebruik custom form instellingen"
+
+#: ../quick-event-editor.php:254
+msgid "Check the fields you want to display on the form."
+msgstr "Vink de velden aan die u op het formulier wilt tonen."
+
+#: ../quick-event-editor.php:254
+msgid "page for options and to change the order of the fields."
+msgstr "pagina voor opties en het veranderen van de veldvolgorde."
+
+#: ../quick-event-editor.php:267 ../settings.php:1396
+msgid "Additional Info (displays as plain text)"
+msgstr "Extra informatie (weergegeven als platte tekst)"
+
+#: ../quick-event-editor.php:268 ../settings.php:1422
+msgid "Show box to add more names if number attending is greater than 1"
+msgstr "Toon box om extra namen toe te voegen als aantal deelnemers groter is dan 1)"
+
+#: ../quick-event-editor.php:270 ../settings.php:1434
+msgid "Include Terms and Conditions checkbox"
+msgstr "Toon (algemene) voorwaarden checkbox"
+
+#: ../quick-event-editor.php:382
+msgid "Event Registration Form"
+msgstr "Evenement registratieformulier"
+
+#: ../quick-event-editor.php:503
+#, php-format
+msgid "Event updated. <a href=\"%s\">View event</a>"
+msgstr "Evenement aangepast, Toon evenement"
+
+#: ../quick-event-editor.php:504
+msgid "Custom field updated."
+msgstr ""
+
+#: ../quick-event-editor.php:505
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../quick-event-editor.php:506
+msgid "Event updated."
+msgstr "Evenement aangepast"
+
+#: ../quick-event-editor.php:507
+#, php-format
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: ../quick-event-editor.php:508
+#, php-format
+msgid "Event published. <a href=\"%s\">View event</a>"
+msgstr "Evenement gepubliceerd. Toon evenement"
+
+#: ../quick-event-editor.php:509
+msgid "Page saved."
+msgstr "Pagina opgeslagen"
+
+#: ../quick-event-editor.php:510
+#, php-format
+msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: ../quick-event-editor.php:511
+#, php-format
+msgid ""
+"Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview event</a>"
+msgstr ""
+
+#: ../quick-event-editor.php:511
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../quick-event-editor.php:512
+#, php-format
+msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
+msgstr ""
+
+#: ../settings.php:71 ../settings.php:117 ../settings.php:431
+msgid "Styling"
+msgstr ""
+
+#: ../settings.php:72 ../settings.php:119
+msgid "Calendar"
+msgstr "Kalender"
+
+#: ../settings.php:74 ../settings.php:123
+msgid "Auto Responder"
+msgstr ""
+
+#: ../settings.php:75 ../settings.php:125
+msgid "Payments"
+msgstr "Betalingen"
+
+#: ../settings.php:76 ../settings.php:127
+msgid "Template"
+msgstr ""
+
+#: ../settings.php:100
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: ../settings.php:124
+msgid "Set up an email responder for event registrations"
+msgstr "Stel e-mail responder voor evenement registraties in"
+
+#: ../settings.php:128
+msgid "Create an event template based on your theme single.php"
+msgstr "Maak een evenement sjabloon op basis van uw thema single.php"
+
+#: ../settings.php:260
+msgid "The contents of the event detail editing box."
+msgstr ""
+
+#: ../settings.php:280
+msgid "Make publication date the same as the event date"
+msgstr "Maak publicatiedatum gelijk aan evenementdatum"
+
+#: ../settings.php:285
+msgid "Shortcode and Widget Field Selection"
+msgstr ""
+
+#: ../settings.php:286
+msgid ""
+"On the <a href=\"/wp-admin/widgets.php\">widget</a> just enter the field "
+"numbers seperated with commas."
+msgstr ""
+
+#: ../settings.php:431
+msgid "Add an Event Category key to your list using the settings on the"
+msgstr ""
+
+#: ../settings.php:434
+msgid "Download to Calendar"
+msgstr "Download als ical bestand"
+
+#: ../settings.php:435
+msgid "This allows users to download the event as a calender file"
+msgstr "Hiermee kunnen gebruikers het evenement downloaden als agendabestand"
+
+#: ../settings.php:454
+#, fuzzy
+msgid "Link to external website from event list"
+msgstr "Link naar externe website van het evenementenoverzicht"
+
+#: ../settings.php:458
+msgid "Open external links in new tab/page"
+msgstr "Open externe link in nieuw tabblad/venster"
+
+#: ../settings.php:466
+msgid "Width:"
+msgstr "Breedte:"
+
+#: ../settings.php:470
+msgid "Remove link from event title and event image"
+msgstr "Verwijder link van evenementnaam en -afbeelding"
+
+#: ../settings.php:478
+msgid "Hide links to event if not logged in"
+msgstr "Verberg links naar evenement als niet ingelogd is"
+
+#: ../settings.php:486
+msgid "Enter URL to link to a specific page. Leave blank to just go back one page"
+msgstr ""
+"Voer URL in om naar specifieke pagina te gaan. Leeg laten om een pagina "
+"terug te gaan"
+
+#: ../settings.php:498
+msgid "Show map and image"
+msgstr "Toon kaart en afbeelding"
+
+#: ../settings.php:501
+msgid "Note:"
+msgstr "Aantekening:"
+
+#: ../settings.php:504
+msgid "Event Map and Image Width"
+msgstr "Evenement kaart en afbeelding breedte"
+
+#: ../settings.php:689
+msgid "DM"
+msgstr ""
+
+#: ../settings.php:689
+msgid "MD"
+msgstr ""
+
+#: ../settings.php:694
+msgid "Start"
+msgstr ""
+
+#: ../settings.php:765
+msgid "Add link back to all events"
+msgstr ""
+
+#: ../settings.php:766
+msgid "This uses the URL set on the"
+msgstr ""
+
+#: ../settings.php:793
+msgid "CSS editor"
+msgstr ""
+
+#: ../settings.php:938
+msgid "hex code"
+msgstr ""
+
+#: ../settings.php:942
+msgid "Jump to links"
+msgstr ""
+
+#: ../settings.php:943
+msgid "Jump to the top of the calendar when linking to a new month."
+msgstr ""
+
+#: ../settings.php:963
+msgid "Months"
+msgstr "Maanden"
+
+#: ../settings.php:966
+msgid "Display 12 Mavigation"
+msgstr ""
+
+#: ../settings.php:976
+msgid "Hide navigation"
+msgstr "Verberg navigatie"
+
+#: ../settings.php:977
+msgid "Remove Prev and Next links"
+msgstr ""
+
+#: ../settings.php:992
+msgid "Lock border colour (ignore category colours)"
+msgstr ""
+
+#: ../settings.php:1007
+msgid "&#9654;"
+msgstr ""
+
+#: ../settings.php:1007
+msgid "&#9633;"
+msgstr ""
+
+#: ../settings.php:1007
+msgid "&#9632;"
+msgstr ""
+
+#: ../settings.php:1007
+msgid "&#9733;"
+msgstr ""
+
+#: ../settings.php:1029
+msgid "Show event image on the calendar"
+msgstr "Toon evenementafbeelding op kalender"
+
+#: ../settings.php:1029
+msgid "Image Width"
+msgstr "Afbeeldingsbreedte"
+
+#: ../settings.php:1032
+msgid "Hover Message"
+msgstr ""
+
+#: ../settings.php:1033
+msgid "Show full event title on hover"
+msgstr ""
+
+#: ../settings.php:1039
+msgid "Items"
+msgstr ""
+
+#: ../settings.php:1238
+msgid "Form Width"
+msgstr "Formulierbreedte"
+
+#: ../settings.php:1242
+msgid ""
+"Display the registration form on the right below the event image and map (if "
+"used)"
+msgstr ""
+"Toon het registratieformulier rechts, onder de evenement afbeelding en kaart "
+"(indien gebruikt)"
+
+#: ../settings.php:1271
+msgid "Allow HTML tags"
+msgstr ""
+
+#: ../settings.php:1271
+msgid "Warning: this may leave your site open to CSRF and XSS attacks so be careful."
+msgstr ""
+
+#: ../settings.php:1280
+msgid "Do not send notifications"
+msgstr "Verstuur geen bevestigingen"
+
+#: ../settings.php:1419
+msgid "Show box for more names"
+msgstr "Toon box voor meer namen"
+
+#: ../settings.php:1426
+msgid "More names label"
+msgstr "Meer namen label"
+
+#: ../settings.php:1430
+msgid "Terms and Conditions"
+msgstr "(Algemene) voorwaarden"
+
+#: ../settings.php:1438
+msgid "T&C label"
+msgstr ""
+
+#: ../settings.php:1443
+msgid "T&C URL"
+msgstr ""
+
+#: ../settings.php:1448
+msgid "Open link in new Tab/Window"
+msgstr "Open link in nieuw tabblad/venster"
+
+#: ../settings.php:1452
+msgid "Register without payment"
+msgstr "Registreer zonder betaling"
+
+#: ../settings.php:1456
+msgid "Allow registration without payment"
+msgstr "Sta registratie zonder betaling toe"
+
+#: ../settings.php:1457
+#, fuzzy
+msgid ""
+"Only displays if there is a cost and the transfer to paypal option is "
+"enabled on the"
+msgstr ""
+"Alleen tonen als er kosten aan verbonden zijn en overdracht naar PayPal "
+"optie is aangezet op de"
+
+#: ../settings.php:1457
+msgid "Payments Page"
+msgstr "Betalingen pagina"
+
+#: ../settings.php:1524
+msgid "Set the number of places for an event in the event editor"
+msgstr ""
+
+#: ../settings.php:1528
+msgid "Activate the counter on the event editor"
+msgstr ""
+
+#: ../settings.php:1550
+msgid "Moderation"
+msgstr ""
+
+#: ../settings.php:1554
+msgid "Moderate all registrations"
+msgstr ""
+
+#: ../settings.php:1558 ../settings.php:1578
+msgid "Message to display after registration"
+msgstr "Te tonen bericht na registratie"
+
+#: ../settings.php:1563
+msgid "Update places available before moderation"
+msgstr "Update beschikbare plaatsen voor moderatie"
+
+#: ../settings.php:1567
+msgid "Waiting Lists"
+msgstr "Wachtlijsten"
+
+#: ../settings.php:1571
+msgid "Allow people to register even if there are no places available"
+msgstr "Sta registratie toe als er geen beschikbare plaatsen zijn"
+
+#: ../settings.php:1630
+msgid "Auto responder settings"
+msgstr ""
+
+#: ../settings.php:1631
+msgid ""
+"The Auto Responder will send an email to the Registrant if enabled of if "
+"they chooses choose to recieve a copy of their details"
+msgstr ""
+
+#: ../settings.php:1633
+msgid "Enable Auto Responder"
+msgstr ""
+
+#: ../settings.php:1634
+msgid "From Name:"
+msgstr ""
+
+#: ../settings.php:1634
+msgid "Defaults to your"
+msgstr ""
+
+#: ../settings.php:1634
+msgid "Site Title"
+msgstr ""
+
+#: ../settings.php:1634 ../settings.php:1636
+msgid "if left blank"
+msgstr ""
+
+#: ../settings.php:1636
+msgid "From Email:"
+msgstr ""
+
+#: ../settings.php:1636
+msgid "Defaults to the"
+msgstr ""
+
+#: ../settings.php:1636
+msgid "Admin Email"
+msgstr ""
+
+#: ../settings.php:1638
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+#: ../settings.php:1642
+msgid "Message Content"
+msgstr "Berichtinhoud"
+
+#: ../settings.php:1643
+msgid ""
+"To create individual event messages use the 'Registration Confirmation "
+"Message' option at the bottom of the"
+msgstr ""
+
+#: ../settings.php:1646
+msgid "You can use the following shortcodes in the message body:"
+msgstr ""
+
+#: ../settings.php:1648
+msgid "Replacement Text"
+msgstr ""
+
+#: ../settings.php:1649
+msgid "The registrants name from the form"
+msgstr ""
+
+#: ../settings.php:1650
+msgid "The event title"
+msgstr "Evenementnaam"
+
+#: ../settings.php:1651
+msgid "Date of the event"
+msgstr "Datum evenement\n"
+
+#: ../settings.php:1652
+msgid "The number of places required"
+msgstr "Aantal benodigde plaatsen"
+
+#: ../settings.php:1709
+msgid ""
+"This setting only works if you have a simple cost on your event. This means "
+"<em>Entry $10</em> will be OK but <em>&pound;5 for adults and &pound;3 for "
+"children</em> may cause problems."
+msgstr ""
+
+#: ../settings.php:1713
+msgid "You can also select payments on individual events using the"
+msgstr ""
+
+#: ../settings.php:1738
+msgid "Coupons"
+msgstr ""
+
+#: ../settings.php:1741
+msgid "Coupon code label"
+msgstr ""
+
+#: ../settings.php:1744
+msgid "PayPal IPN Integration Guide"
+msgstr ""
+
+#: ../settings.php:1753
+msgid "Hide registration details unless payment is complete"
+msgstr ""
+
+#: ../settings.php:1817
+msgid "Coupons Codes"
+msgstr ""
+
+#: ../settings.php:1822
+msgid "Coupon Code"
+msgstr ""
+
+#: ../quick-event-widget.php:9
+msgid "Add an event list to your sidebar"
+msgstr "Voeg een evenement toe aan je sidebar"
+
+#: ../quick-event-widget.php:45
+msgid "Event List"
+msgstr "Lijst met evenementen"
+
+#: ../quick-event-widget.php:47
+msgid "Title"
+msgstr "Titel"
+
+#: ../quick-event-widget.php:49
+msgid "Number of posts to display "
+msgstr "Aantal weer te geven berichten"
+
+#: ../quick-event-widget.php:74
+msgid "Anchor text:"
+msgstr "Anker tekst"
+
+#: ../quick-event-widget.php:76
+msgid "URL of list page"
+msgstr "URL overzichtspagina"
+
+#: ../quick-event-widget.php:78 ../quick-event-widget.php:164
+msgid "All other options are changed on the "
+msgstr "Alle andere opties zijn aangepast op"
+
+#: ../quick-event-widget.php:78 ../quick-event-widget.php:164
+msgid "settings page"
+msgstr "instellingen pagina"
+
+#: ../quick-event-widget.php:116
+msgid "Add an event calendar to your sidebar"
+msgstr "Voeg een kalender toe aan je sidebar"
+
+#: ../quick-event-widget.php:140
+msgid "Event Calendar"
+msgstr "Evenementen kalender"
+
+#: ../quick-event-widget.php:142
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../quick-event-manager.php:50
+msgctxt "post type general name"
+msgid "Events"
+msgstr "Evenementen"
+
+#: ../quick-event-manager.php:51
+msgctxt "post type singular name"
+msgid "Event"
+msgstr "Evenement"
+
+#: ../quick-event-manager.php:52
+msgctxt "event"
+msgid "Add New"
+msgstr "Toevoegen"
+
+#: ../quick-event-manager.php:53
+msgid "Add New Event"
+msgstr "Nieuw evenement toevoegen"
+
+#: ../quick-event-manager.php:54
+msgid "Edit Event"
+msgstr "Evenement aanpassen"
+
+#: ../quick-event-manager.php:55
+msgid "New Event"
+msgstr "Nieuw evenement"
+
+#: ../quick-event-manager.php:56
+msgid "View Event"
+msgstr "Evenement bekijken"
+
+#: ../quick-event-manager.php:57
+msgid "Search event"
+msgstr "Evenement zoeken"
+
+#: ../quick-event-manager.php:58
+msgid "Nothing found"
+msgstr "Niet gevonden"
+
+#: ../quick-event-manager.php:59
+msgid "Nothing found in Trash"
+msgstr "Niet gevonden in prullenbak"
+
+#: ../quick-event-manager.php:1396 ../settings.php:112
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../quick-event-options.php:21 ../quick-event-editor.php:100
+msgid "Short Description"
+msgstr "Korte omschrijving"
+
+#: ../quick-event-options.php:22 ../quick-event-editor.php:55 ../settings.php:290
+msgid "Event Time"
+msgstr "Evenement tijden"
+
+#: ../quick-event-options.php:23 ../quick-event-editor.php:56 ../quick-event-
+#: editor.php:157 ../settings.php:292
+msgid "Venue"
+msgstr "Locatie"
+
+#: ../quick-event-options.php:24 ../quick-event-editor.php:161 ../settings.php:293
+msgid "Address"
+msgstr "Adres"
+
+#: ../quick-event-options.php:25
+msgid "Event Website"
+msgstr "Evenement website"
+
+#: ../quick-event-options.php:26 ../quick-event-editor.php:169 ../settings.php:291
+msgid "Cost"
+msgstr "Kosten"
+
+#: ../quick-event-options.php:27 ../quick-event-editor.php:173 ../settings.php:295
+msgid "Organiser"
+msgstr "Organisator"
+
+#: ../quick-event-options.php:232 ../quick-event-editor.php:260 ../settings.php:
+#: 1354 ../settings.php:1519
+msgid "Message"
+msgstr "Tekst van weer te geven bericht"
+
+#: ../quick-event-options.php:238 ../quick-event-editor.php:266 ../settings.php:
+#: 1390
+msgid "Number"
+msgstr "Aantal"
+
+#: ../quick-event-options.php:302 ../quick-event-editor.php:203
+msgid "Payment"
+msgstr "Betaling"
+
+#: ../quick-event-options.php:371 ../quick-event-editor.php:381
+msgid "Event Details"
+msgstr "Evenement details"
+
+#: ../quick-event-editor.php:53
+msgid "Event"
+msgstr "Evenement"
+
+#: ../quick-event-editor.php:54
+msgid "Event Date"
+msgstr "Datum evenement"
+
+#: ../quick-event-editor.php:57
+msgid "Attending<br>/ Places"
+msgstr "Deelnemers<br>/ Plaatsen"
+
+#: ../quick-event-editor.php:58 ../settings.php:753
+msgid "Categories"
+msgstr "Categoriën"
+
+#: ../quick-event-editor.php:59
+msgid "Author"
+msgstr "Auteur"
+
+#: ../quick-event-editor.php:60 ../quick-event-editor.php:88
+msgid "Date"
+msgstr "Datum"
+
+#: ../quick-event-editor.php:84
+msgid "Empty fields are not displayed"
+msgstr "Lege velden worden niet weergegeven"
+
+#: ../quick-event-editor.php:84 ../quick-event-editor.php:254
+msgid "See the plugin"
+msgstr "Zie de plugin"
+
+#: ../quick-event-editor.php:84
+msgid "settings"
+msgstr "Instellingen"
+
+#: ../quick-event-editor.php:84
+msgid "page for options"
+msgstr "opties pagina"
+
+#: ../quick-event-editor.php:89
+msgid "Local date"
+msgstr "Startdatum"
+
+#: ../quick-event-editor.php:93
+msgid "End Date"
+msgstr "Einddatum"
+
+#: ../quick-event-editor.php:94
+msgid "Leave blank for one day events"
+msgstr "Leeg laten bij 1-dags evenement"
+
+#: ../quick-event-editor.php:95
+msgid "Current end date"
+msgstr "Einddatum"
+
+#: ../quick-event-editor.php:105
+msgid "Time"
+msgstr "Tijd"
+
+#: ../quick-event-editor.php:114
+msgid "Timezone"
+msgstr "Tijdszone"
+
+#: ../quick-event-editor.php:165 ../settings.php:294
+msgid "Website"
+msgstr "Website"
+
+#: ../quick-event-editor.php:166
+msgid "Display As"
+msgstr "Weergaven als"
+
+#: ../quick-event-editor.php:177
+msgid "Organiser Contact Details"
+msgstr "Contactgegevens organisator"
+
+#: ../quick-event-editor.php:181 ../settings.php:1284
+msgid "Registration Form"
+msgstr "Registratieformulier"
+
+#: ../quick-event-editor.php:190
+msgid "Redirect to a URL after registration"
+msgstr "Ga terug naar de URL na registratie"
+
+#: ../quick-event-editor.php:207
+msgid "Hide Event"
+msgstr "Evenement verbergen"
+
+#: ../quick-event-editor.php:211 ../settings.php:1028
+msgid "Event Image"
+msgstr "Evenement afbeelding"
+
+#: ../quick-event-editor.php:220
+msgid "Repeat Event"
+msgstr "Evenement herhaling"
+
+#: ../quick-event-editor.php:222
+msgid "Weekly"
+msgstr "Weekelijks"
+
+#: ../quick-event-editor.php:223
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: ../quick-event-editor.php:254 ../settings.php:73 ../settings.php:121 ..
+#: settings.php:1747 ../settings.php:2014 ../settings.php:2014
+msgid "Registration"
+msgstr "Registratie"
+
+#: ../quick-event-editor.php:256 ../settings.php:1324
+msgid "Name"
+msgstr "Naam"
+
+#: ../quick-event-editor.php:257 ../settings.php:1330
+msgid "Email"
+msgstr "Email"
+
+#: ../quick-event-editor.php:258 ../settings.php:1342
+msgid "Telephone"
+msgstr "Telefoon"
+
+#: ../quick-event-editor.php:259 ../settings.php:1348
+msgid "Places"
+msgstr "Plaatsen"
+
+#: ../quick-event-editor.php:261 ../settings.php:1336
+msgid "Not Attending"
+msgstr "Niet aanwezig"
+
+#: ../quick-event-editor.php:262 ../quick-event-editor.php:263 ../settings.php:
+#: 1372 ../settings.php:1378
+msgid "User defined"
+msgstr "Eigen toe te passen veld"
+
+#: ../quick-event-editor.php:264 ../quick-event-editor.php:265 ../settings.php:
+#: 1384 ../settings.php:1402
+msgid "Dropdown"
+msgstr "Fout en bedankt melding"
+
+#: ../quick-event-editor.php:269 ../settings.php:1366
+msgid "Copy Message"
+msgstr "Kopieer melding"
+
+#: ../quick-event-editor.php:271 ../settings.php:1360
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../quick-event-editor.php:387
+msgid "Event Description"
+msgstr "Evenement omschrijving"
+
+#: ../settings.php:68
+msgid "Setup"
+msgstr "Instellingen"
+
+#: ../settings.php:69 ../settings.php:113
+msgid "Event Settings"
+msgstr "Evenement instellingen"
+
+#: ../settings.php:70 ../settings.php:115 ../settings.php:766
+msgid "Event Display"
+msgstr "Evenement weergave"
+
+#: ../settings.php:89
+msgid "Setting up and using the plugin"
+msgstr "Instellingen en gebruik van de plugin"
+
+#: ../settings.php:90
+msgid "Important!"
+msgstr "Belangrijk!"
+
+#: ../settings.php:90
+msgid "If you get an error when trying to view events, resave your"
+msgstr ""
+"Wanneer er een foutmelding verschijnt bij de weergave van evenementen, "
+"controleer dan de instellingen van je "
+
+#: ../settings.php:91
+msgid "Create new events using the"
+msgstr "Nieuwe evenementen maak je met de "
+
+#: ../settings.php:91
+msgid "link on your dashboard menu"
+msgstr "link in je Dashboard menu"
+
+#: ../settings.php:92
+msgid "To display a list of events on your posts or pages use the shortcode: [qem]"
+msgstr ""
+"Voor de weergave van een lijst van evenementen in je berichten of op een "
+"pagina gebruik je de shortcode: [qem]"
+
+#: ../settings.php:93
+msgid "If you prefer to display your events as a calendar use the shortcode"
+msgstr ""
+"Voor de weergave van een lijst van evenementen als kalender gebruik je de "
+"shortcode"
+
+#: ../settings.php:94
+msgid "More shortcodes on the right"
+msgstr ""
+"Meer shortcodes vind je in het rechter overzicht onder de kop Primaire "
+"shortcodes"
+
+#: ../settings.php:95
+msgid "That&#39;s pretty much it. All you need to do now is"
+msgstr "Dit is alles in een notendop. Je hoeft nu alleen nog maar wat "
+
+#: ../settings.php:95
+msgid "create some events"
+msgstr "evenementen aan te maken"
+
+#: ../settings.php:97
+msgid "Help and Support"
+msgstr "Help en ondersteuning"
+
+#: ../settings.php:98
+msgid "Help at"
+msgstr "Hulp is beschikbaar via "
+
+#: ../settings.php:98
+msgid "along with a feedback form. Or you can email me at "
+msgstr "of maak gebruik het feedback formulier. Ook kun je een email sturen naar "
+
+#: ../settings.php:109
+msgid "Event Manager Role"
+msgstr "Rol van de Eventmanager"
+
+#: ../settings.php:110
+msgid ""
+"There is a user role called <em>Event Manager</em>. Users with this role "
+"only have access to events, they cannot edit posts or pages."
+msgstr ""
+"Er bestaat een speciale rol in de vorm van <em>Event Manager</em>. "
+"Gebruikers met deze rol hebben alleen toegang tot evenementen. Zij kunnen "
+"geen wijzigingen maken in berichten of op pagina's."
+
+#: ../settings.php:114
+msgid ""
+"Select which fields are displayed in the event list and event page. Change "
+"actions and style of each field"
+msgstr ""
+"Selecteer de velden die je in de evenementenlijst en op de evenementenpagina "
+"wilt zien. Wijzig zonodig acties en stijl van de velden"
+
+#: ../settings.php:116
+msgid "Edit event messages and display options"
+msgstr "Wijzig evenementberichtn en weergave opties"
+
+#: ../settings.php:118
+msgid "Styling options for the date icon and overall event layout"
+msgstr "Stijl opties van de datum icoon en algemene evenementen layout"
+
+#: ../settings.php:120
+msgid "Show events as a calendar. Some styling and display options"
+msgstr ""
+"Toon evenementen in kalender weergave. Enkele stijl opties en weergave "
+"opties zijn hier instelbaar."
+
+#: ../settings.php:122
+msgid "Add a registration form and attendee reports to your events"
+msgstr ""
+"Voeg een registratieformulier en overzicht van deelnemers aan je evenement "
+"toe"
+
+#: ../settings.php:126
+msgid "Configure event payments"
+msgstr "Instelling evenement betalingen"
+
+#: ../settings.php:130
+msgid "Registration Report"
+msgstr "Registratie overzicht"
+
+#: ../settings.php:131
+msgid "View, edit and download event registrations"
+msgstr "Toon, wijzig en download evenement aanmeldingen"
+
+#: ../settings.php:131
+msgid "Access using the <b>Registration</b> link on your dashboard menu"
+msgstr "Toegang via de <b>Registratie </b> link op je Dashboard menu"
+
+#: ../settings.php:133
+msgid "Primary Shortcodes"
+msgstr "Primaire shortcodes"
+
+#: ../settings.php:138
+msgid "Standard event list"
+msgstr "Standaard evenementen overzicht"
+
+#: ../settings.php:142
+msgid "Calendar view"
+msgstr "Kalender weergave"
+
+#: ../settings.php:146
+msgid "Set the number of events to display"
+msgstr "Stel het aantal weer te geven evenementen in"
+
+#: ../settings.php:150
+msgid "Show old events"
+msgstr "Laat ook voorbije evenementen zien"
+
+#: ../settings.php:154
+msgid "List events by category"
+msgstr "Toon de lijst met evenementen per categorie"
+
+#: ../settings.php:158
+msgid "There are loads more shortcode options listed on the"
+msgstr "Meer shortcuts opties kun je vinden in de"
+
+#: ../settings.php:158
+msgid "Plugin Website"
+msgstr "Plugin Website"
+
+#: ../settings.php:158
+msgid "link opens in a new tab"
+msgstr "link opent in een nieuwe tab"
+
+#: ../settings.php:198
+msgid "The form settings have been updated"
+msgstr "Formulierinstellingen zijn geupdate"
+
+#: ../settings.php:203
+msgid "The event settings have been reset"
+msgstr "Evenementinstellingen zijn gereset"
+
+#: ../settings.php:216
+msgid ""
+"Use the check boxes to select which fields to display in the event post and "
+"the event list"
+msgstr ""
+"Gebruik de checkboxen om aan te geven welk veld je wilt tonen in "
+"evenementenbericht en de evenementenlijst"
+
+#: ../settings.php:217
+msgid "Drag and drop to change the order of the fields"
+msgstr "Versleep om de volgorde van velden te wijzigen"
+
+#: ../settings.php:218
+msgid ""
+"The fields with the blue border are for optional captions. For example: "
+"<span style=\"border:1px solid blue;\">The cost is</span> {cost} will display "
+"as <em>The cost is 20 Zlotys</em>. If you leave it blank just <em>20 "
+"Zlotys</em> will display"
+msgstr ""
+"Blauw gemarkeerde velden zijn voor extra opties. Bijvoorbeeld: <span "
+"style=\"border:1px solid blue;\">De kosten zijn</span> {kosten} weergegeven "
+"als <em>De kosten zijn 20 Euro</em>. Laat je dit leeg, dan wordt alleen "
+"<em>20 Euro</em> getoond"
+
+#: ../settings.php:222
+msgid "Show in event post"
+msgstr "Weergeven in evenementenbericht"
+
+#: ../settings.php:223
+msgid "Show in<br>event list"
+msgstr "Weergeven in <br> evenementenlijst"
+
+#: ../settings.php:224
+msgid "Colour"
+msgstr "Kleur"
+
+#: ../settings.php:225
+msgid "Font<br>size"
+msgstr "Lettertype<br>grootte"
+
+#: ../settings.php:226
+msgid "Font<br>attributes"
+msgstr "Lettertype<br>attributen"
+
+#: ../settings.php:227
+msgid "Caption and display options"
+msgstr "Bijschrift en weergave opties"
+
+#: ../settings.php:239
+msgid "description"
+msgstr "Omschrijving"
+
+#: ../settings.php:242
+msgid "start time"
+msgstr "Begintijd"
+
+#: ../settings.php:242
+msgid "end time"
+msgstr "Eindtijd"
+
+#: ../settings.php:245
+msgid "venue"
+msgstr "locatie"
+
+#: ../settings.php:248
+msgid "address"
+msgstr "adres"
+
+#: ../settings.php:248
+msgid "Show map (if address is given)"
+msgstr "Toon kaart (alleen bij ingevoerd adres)"
+
+#: ../settings.php:254
+msgid "cost"
+msgstr "kosten"
+
+#: ../settings.php:257
+msgid "organiser"
+msgstr "organisator"
+
+#: ../settings.php:257
+msgid "Show orgainser's contact details"
+msgstr "Toon contactgegevens organisator"
+
+#: ../settings.php:282 ../settings.php:538 ../settings.php:795 ../settings.php:
+#: 1074 ../settings.php:1582 ../settings.php:1755
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: ../settings.php:282 ../settings.php:538 ../settings.php:795 ../settings.php:
+#: 1074 ../settings.php:1583 ../settings.php:1755
+msgid "Reset"
+msgstr "Reset"
+
+#: ../settings.php:282 ../settings.php:538
+msgid "Are you sure you want to reset the display settings?"
+msgstr "Weet je zeker dat je de weergave-instellingen wilt resetten?"
+
+#: ../settings.php:286
+msgid ""
+"If you want a custom layout for a specific list you can use the shortcode "
+"[qem fields=1,2,5]."
+msgstr ""
+"Wil je een specifieke weergave,  dan kun je gebruik maken van b.v. de "
+"shortcode qem fields=1,2,5]."
+
+#: ../settings.php:287
+msgid "The numbers correspond to the fields like this"
+msgstr "De getallen komen overeen met de velden zoals hieronder weergegeven"
+
+#: ../settings.php:289
+msgid "Short description"
+msgstr "Korte omschrijving"
+
+#: ../settings.php:297
+msgid ""
+"The order of the fields and other options is set using the drag and drop "
+"selectors above"
+msgstr ""
+"De volgorde van de velden en andere opties wordt bepaald door het verslepen "
+"van de geselecteerde velden hierboven"
+
+#: ../settings.php:351
+msgid "The display settings have been updated"
+msgstr "De weergave-instellingen zijn geupdate"
+
+#: ../settings.php:356
+msgid "The display settings have been reset"
+msgstr "Weergave-instellingen zijn gerest"
+
+#: ../settings.php:372
+msgid "End Date Display"
+msgstr "Einddatum weergave"
+
+#: ../settings.php:375
+msgid "Show end date in event list"
+msgstr "Toon de einddatum in het evenementenoverzicht"
+
+#: ../settings.php:378
+msgid "Combine Start and End dates into one box"
+msgstr "Combineer start- en einddatum in één icoon"
+
+#: ../settings.php:381
+msgid "Show combined Start and End dates if in the same month"
+msgstr ""
+"Combineer start -en einddatum in één icoon wanneer ze in dezelfde maand "
+"liggen"
+
+#: ../settings.php:384
+msgid "Only show icon on first event if more than one event on that day"
+msgstr ""
+"Toon alleen de icoon van het eerste evenement wanneer er meer evenementen op "
+"die dag zijn"
+
+#: ../settings.php:387
+msgid "Show start and end dates above one another"
+msgstr "Toon start- en einddatum boven elkaar"
+
+#: ../settings.php:390
+msgid "Event Messages"
+msgstr "Evenementbericht"
+
+#: ../settings.php:393
+msgid "Read more caption"
+msgstr "Lees meer bijschrift"
+
+#: ../settings.php:396
+msgid "No events message"
+msgstr "Geen evenementenbericht"
+
+#: ../settings.php:399
+msgid "Event List Options"
+msgstr "Evenementenoverzicht opties"
+
+#: ../settings.php:403
+msgid "List events in reverse order (from future to past)"
+msgstr "Toon evenementen in de omgekeerde volgorde (van toekomstige naar voorbije)"
+
+#: ../settings.php:407
+msgid "Show past events in the events list"
+msgstr "Toon voorbije evenementen in het evenementenoverzicht"
+
+#: ../settings.php:407
+msgid "If you only want to display past events use the shortcode: [qem id=\"archive\"]"
+msgstr ""
+"Wanneer je alleen voorbije evenementen wilt tonen, gebruik dan de shortcode :"
+" [qem id=\"archive\"]"
+
+#: ../settings.php:411
+msgid "Split the list into month/year sections"
+msgstr "Deel het overzicht op in maand- en jaarsecties"
+
+#: ../settings.php:415
+msgid "Short (Aug)"
+msgstr "Korte maandweergave (aug)"
+
+#: ../settings.php:415
+msgid "Full (August)"
+msgstr "Lange maandweergave (augustus)"
+
+#: ../settings.php:419
+msgid "Show events in recent posts list"
+msgstr "Toon evenementen als nieuw bericht in het berichtenoverzicht"
+
+#: ../settings.php:423
+msgid "Show category"
+msgstr "Toon de categorie"
+
+#: ../settings.php:427
+msgid "Next to title"
+msgstr "Naast de titel"
+
+#: ../settings.php:427
+msgid "Next to date (if no icon styling)"
+msgstr "Naast de datum (wanneer er geen icoonopmaak is gemaakt)"
+
+#: ../settings.php:431 ../settings.php:766 ../settings.php:774
+msgid "page"
+msgstr "pagina"
+
+#: ../settings.php:439
+msgid "Add download button to event"
+msgstr "Voeg een downloadknop toe aan het evenement"
+
+#: ../settings.php:443
+msgid "Add download button to event list"
+msgstr "Voeg een downloadknop toe aan het evenementenoverzicht"
+
+#: ../settings.php:447
+msgid "Button text:"
+msgstr "Knoptekst:"
+
+#: ../settings.php:462
+msgid "Open event in lightbox"
+msgstr "Open evenement in een lightbox"
+
+#: ../settings.php:462
+msgid "Warning: doesn't always behave as expected on small screens"
+msgstr "Let op: geeft niet altijd gewenste resultaat op kleine schermen"
+
+#: ../settings.php:474
+msgid "Hide Read More link"
+msgstr "Verberg de \"Lees meer\" link"
+
+#: ../settings.php:482
+msgid "Add a link to events to go back to the event list"
+msgstr "Voeg een link \"Ga terug naar het evenementenoverzicht\" toe aan het evenement"
+
+#: ../settings.php:491
+msgid "Link caption"
+msgstr "Link bijschrift"
+
+#: ../settings.php:494
+msgid "Maps and Images"
+msgstr "Kaarten en afbeeldingen"
+
+#: ../settings.php:501
+msgid ""
+"The map will only display if you have a valid address and the &#146;show "
+"map&#146; checkbox is ticked on the <a href=\"?page=quick-event-"
+"manager/settings.php&tab=settings\">Event Settings</a> page. If you add an "
+"image to the event it will replace the map unless you use the option to "
+"display both."
+msgstr ""
+"De kaart wordt alleen getoond wanneer je een geldig adres hebt ingegeven en "
+"\"Toon kaart\" checkbox is aangevinkt op de <a href=\"?page=quick-event-"
+"manager/settings.php&tab=settings\">Event Settings</a> pagina. De kaart wordt "
+"niet getoond wanneer je een afbeelding voor het evenement hebt geselecteerd, "
+"behalve wanneer je bewust de optie hebt gekozen om beide te tonen."
+
+#: ../settings.php:508 ../settings.php:520
+msgid "Max Width"
+msgstr "Maximale breedte"
+
+#: ../settings.php:512
+msgid "Map Height"
+msgstr "Hoogte van de kaart"
+
+#: ../settings.php:516
+msgid "Open map in new tab/window"
+msgstr "Open de grotere kaart in een nieuwe tab/pagina"
+
+#: ../settings.php:520
+msgid "Show event image in event list"
+msgstr "Toon evenementenafbeelding in evenementenoverzicht"
+
+#: ../settings.php:524
+msgid "Show map in event list"
+msgstr "Toon kaart in evenementenoverzicht"
+
+#: ../settings.php:527
+msgid "Timezones"
+msgstr "Tijdzones"
+
+#: ../settings.php:531
+msgid "Show timeszones on your events"
+msgstr "Toon tijdzones bij je evenement"
+
+#: ../settings.php:535
+msgid ""
+"This doesn't change the time of the event, it just shows the name of the "
+"local timeszone. Set the event timezone in the event editor."
+msgstr ""
+"Dit wijzigt de tijd van een evenement niet. Het laat alleen de naam van de "
+"lokale tijdzone zien. Stel de event tijdzone in de evenement editor in."
+
+#: ../settings.php:545 ../settings.php:801
+msgid "Event List Preview"
+msgstr "Preview Evenementoverzicht"
+
+#: ../settings.php:607
+msgid "The form styles have been updated"
+msgstr "De formulier stijlen zijn geupdate"
+
+#: ../settings.php:612
+msgid "The style settings have been reset"
+msgstr "De stijlinstellingen zijn gereset"
+
+#: ../settings.php:630
+msgid "Event Width"
+msgstr "Evenement breedte"
+
+#: ../settings.php:632
+#, php-format
+msgid "100% (fill the available space)"
+msgstr "100% (vrije ruimte wordt gevuld met spaties)"
+
+#: ../settings.php:633
+msgid "Pixel (fixed)"
+msgstr "Aantal pixels (vast)"
+
+#: ../settings.php:634
+msgid "Enter the max-width "
+msgstr "Geef de max breedte"
+
+#: ../settings.php:634
+msgid "(Just enter the value, no need to add 'px')"
+msgstr "(Alleen een getal, px niet toevoegen)"
+
+#: ../settings.php:636
+msgid "Font Options"
+msgstr "Lettertype opties"
+
+#: ../settings.php:639
+msgid "Use your theme font styles"
+msgstr "Maak gebruik van je thema lettertype stijl"
+
+#: ../settings.php:640
+msgid "Use Plugin font styles (enter font family and size below)"
+msgstr ""
+"Maak gebruik van de Plugin lettertype stijl (stel lettertype familie en "
+"grootte hieronder in)"
+
+#: ../settings.php:642
+msgid "Font Family"
+msgstr "Lettertype familie"
+
+#: ../settings.php:645
+msgid "Font Size"
+msgstr "Lettertype grootte"
+
+#: ../settings.php:649
+msgid "Header Size"
+msgstr "Kopregel grootte"
+
+#: ../settings.php:650
+msgid "This the size of the title in the event list"
+msgstr "Dit is de grootte van de titel in het evenementen overzicht"
+
+#: ../settings.php:653
+msgid "Header Colour"
+msgstr "Kopregel kleur"
+
+#: ../settings.php:657
+msgid "Calender Icon"
+msgstr "Kalender icoon"
+
+#: ../settings.php:660
+msgid "Remove styles"
+msgstr "Verwijder stijlen"
+
+#: ../settings.php:661
+msgid "Do not style the calendar icon"
+msgstr "Maak de kalender icoon niet op"
+
+#: ../settings.php:664
+msgid "Size"
+msgstr "Grootte"
+
+#: ../settings.php:666
+msgid "Small"
+msgstr "Klein"
+
+#: ../settings.php:667
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: ../settings.php:668
+msgid "Large"
+msgstr "Groot"
+
+#: ../settings.php:671 ../settings.php:995
+msgid "Corners"
+msgstr "Hoeken"
+
+#: ../settings.php:673 ../settings.php:997
+msgid "Square"
+msgstr "Vierkant"
+
+#: ../settings.php:674 ../settings.php:998
+msgid "Rounded"
+msgstr "Afgerond"
+
+#: ../settings.php:677
+msgid "Border Thickness"
+msgstr "Dikte van de rand"
+
+#: ../settings.php:681
+msgid "Border Colour"
+msgstr "Kleur van de rand"
+
+#: ../settings.php:682
+msgid "There is an option below to use category colours for the icon border"
+msgstr "Hieronder kun je de categoriekleur van de rand van de icoon instellen"
+
+#: ../settings.php:685
+msgid "Calendar Icon Order"
+msgstr "Kalender icoon volgorde"
+
+#: ../settings.php:687
+msgid "DMY"
+msgstr "DMJ"
+
+#: ../settings.php:687
+msgid "MDY"
+msgstr "MDJ"
+
+#: ../settings.php:688
+msgid "YDM"
+msgstr "JDM"
+
+#: ../settings.php:692
+msgid "Start/Finish Labels"
+msgstr "Start/einde labels"
+
+#: ../settings.php:693
+msgid "Show start/finish labels"
+msgstr "Toon start/einde labels"
+
+#: ../settings.php:694
+msgid "Finish"
+msgstr "Eind"
+
+#: ../settings.php:697
+msgid "Day Name"
+msgstr "Naam van de dag"
+
+#: ../settings.php:698
+msgid "Show day name"
+msgstr "Toon de naam van de dag"
+
+#: ../settings.php:699
+msgid "Show day name inline with date"
+msgstr "Toon de naam van de dag op dezelfde regel als de datum"
+
+#: ../settings.php:702
+msgid "Date Background colour"
+msgstr "Datum achtergrond kleur"
+
+#: ../settings.php:704
+msgid "Grey"
+msgstr "Grijs"
+
+#: ../settings.php:705
+msgid "Red"
+msgstr "Rood"
+
+#: ../settings.php:706 ../settings.php:717 ../settings.php:740
+msgid "Set your own"
+msgstr "Zelf kiezen"
+
+#: ../settings.php:710
+msgid "Date Text Colour"
+msgstr "Datum tekst kleur"
+
+#: ../settings.php:714
+msgid "Month Background colour"
+msgstr "Maand achtergrond kleur"
+
+#: ../settings.php:716 ../settings.php:738
+msgid "White"
+msgstr "Wit"
+
+#: ../settings.php:721
+msgid "Month Text Colour"
+msgstr "Maand tekst kleur"
+
+#: ../settings.php:725
+msgid "Month Text Style"
+msgstr "Maand tekst stijl"
+
+#: ../settings.php:726 ../settings.php:1021
+msgid "Bold"
+msgstr "Vet"
+
+#: ../settings.php:727 ../settings.php:1021
+msgid "Italic"
+msgstr "Italic"
+
+#: ../settings.php:730
+msgid "Event Content"
+msgstr "Evenement beschrijving"
+
+#: ../settings.php:733 ../settings.php:987
+msgid "Event Border"
+msgstr "Evenement rand"
+
+#: ../settings.php:734
+msgid "Add a border to the event post"
+msgstr "Toon een rand om het evenement"
+
+#: ../settings.php:734
+msgid "Thickness and colour will be the same as the calendar icon"
+msgstr "Dikte en kleur zijn hetzelfde als die van de kalender icoon"
+
+#: ../settings.php:737
+msgid "Event Background Colour"
+msgstr "Evenement achtergrond kleur"
+
+#: ../settings.php:739
+msgid "Use theme colours"
+msgstr "Maak gebruik van de thema kleuren"
+
+#: ../settings.php:744
+msgid "Margins and Padding"
+msgstr "Marges en padding"
+
+#: ../settings.php:745
+msgid "Set the margins and padding of each bit using CSS shortcodes"
+msgstr "Stel de marges en padding van iedere kalender icoon in met CSS shortcodes"
+
+#: ../settings.php:748
+msgid "Event Margin"
+msgstr "Evenement Marge"
+
+#: ../settings.php:749
+msgid "Set the margin or each event using CSS shortcodes"
+msgstr "Stel de marge van ieder evenement in met CSS shortcodes"
+
+#: ../settings.php:756 ../settings.php:1058
+msgid "Display category key"
+msgstr "Toon de categorie legenda"
+
+#: ../settings.php:757
+msgid "Show above event list"
+msgstr "Boven de evenementenlijst"
+
+#: ../settings.php:758
+msgid "Show below event list"
+msgstr "Onder de evenementenlijst"
+
+#: ../settings.php:761 ../settings.php:769 ../settings.php:971
+msgid "Caption"
+msgstr "Legenda"
+
+#: ../settings.php:773
+msgid "Category Colours"
+msgstr "Categorie kleuren"
+
+#: ../settings.php:773
+msgid "Use category colours for the event border"
+msgstr "Gebruik de categoriekleuren voor de evenementenrand"
+
+#: ../settings.php:774
+msgid "Options are set on the"
+msgstr "Opties zijn ingesteld op"
+
+#: ../settings.php:774
+msgid "Calendar Settings"
+msgstr "Kalender instellingen"
+
+#: ../settings.php:777
+msgid "Show name of current category"
+msgstr "Toon de naam van de huidige categorie"
+
+#: ../settings.php:781
+msgid "Current category label"
+msgstr "Huidige categorielabel"
+
+#: ../settings.php:784
+msgid "Linking"
+msgstr "Onderlinge relaties"
+
+#: ../settings.php:785 ../settings.php:1067
+msgid "Link keys to categories"
+msgstr ""
+"Laat alle evenementen zien van dezelfde categorie wanneer je op die "
+"categorie klikt"
+
+#: ../settings.php:786 ../settings.php:1068
+msgid "Show uncategorised key"
+msgstr "Toon ook evenementen die geen categorie toegewezen hebben gekregen"
+
+#: ../settings.php:789
+msgid "Custom CSS"
+msgstr "Eigen CSS"
+
+#: ../settings.php:790
+msgid "Add styles to document head"
+msgstr "Voeg stijlen toe aan de documentkop"
+
+#: ../settings.php:790
+msgid ""
+"Use this option if you are unable to create or save a stylesheet for the "
+"plugin"
+msgstr ""
+"Gebruik deze optie wanneer je een stijlsheet voor deze plugin niet kunt "
+"maken of opslaan"
+
+#: ../settings.php:791
+msgid "Use Custom CSS"
+msgstr "Eigen CSS"
+
+#: ../settings.php:793
+msgid "To see all the styling use the"
+msgstr "Om alle stijlen te tonen maak gebruik van de"
+
+#: ../settings.php:794
+msgid "The main style wrapper is the <code>.qem</code> class."
+msgstr "De z.g. \"main style wrapper\" is de <code>.qem</code> class."
+
+#: ../settings.php:795
+msgid "Are you sure you want to reset the style settings?"
+msgstr "Weet je zeker dat je de stijlinstellingen wilt resetten"
+
+#: ../settings.php:802
+msgid ""
+"Check the event list in your site as the Wordpress Dashboard can do funny "
+"things with styles"
+msgstr ""
+"Controleer het evenementenoverzicht op je site. Wordpress dashboard doet "
+"soms merkwaardige dingen met stijlen"
+
+#: ../settings.php:875
+msgid "The calendar settings have been updated"
+msgstr "De kalender instellingen zijn geupdate"
+
+#: ../settings.php:880
+msgid "The calendar settings have been reset"
+msgstr "De kalender instellingen zijn gerest"
+
+#: ../settings.php:900
+msgid "Using the Calendar"
+msgstr "Gebruik de kalender"
+
+#: ../settings.php:901
+msgid "To add a calendar to your site use the shortcode: [qemcalendar]"
+msgstr "Om een kalender aan je site toe te voegen gebruik de shortcode: [qemcalender]"
+
+#: ../settings.php:905 ../settings.php:1226
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: ../settings.php:908
+msgid "Linking to Events"
+msgstr "Link naar evenementen"
+
+#: ../settings.php:909
+msgid "Link opens event summary in a popup"
+msgstr "Link opent een samenvatting van het evenement in een popup"
+
+#: ../settings.php:910
+msgid "Link opens event page"
+msgstr "Link opent de evenementenpagina"
+
+#: ../settings.php:913
+msgid "Old Events"
+msgstr "Voorbije evenementen"
+
+#: ../settings.php:914
+msgid "Show past events in the calendar"
+msgstr "Toon voorbije evenementen in de kalender"
+
+#: ../settings.php:917
+msgid "Linking Calendar to the Event List"
+msgstr "Koppel de kalender met het evenementenoverzicht"
+
+#: ../settings.php:918
+msgid "Link Event List to Calendar Page"
+msgstr "Koppel het evenementenoverzicht met de kalender pagina"
+
+#: ../settings.php:919
+msgid "You will need to create pages for the calendar and the event list"
+msgstr "Maak pagina's aan voor de kalender en het evenementenoverzicht"
+
+#: ../settings.php:923
+msgid "Calendar link text"
+msgstr "Kalender link tekst"
+
+#: ../settings.php:924
+msgid "Calendar page URL"
+msgstr "Kalender pagina URL"
+
+#: ../settings.php:925
+msgid "Event list link text"
+msgstr "Evenementenoverzicht link tekst"
+
+#: ../settings.php:927
+msgid "Event list page"
+msgstr "Evenementenoverzicht pagina"
+
+#: ../settings.php:934
+msgid "Navigation Icons"
+msgstr "Navigatie iconen"
+
+#: ../settings.php:936
+msgid "None"
+msgstr "Geen"
+
+#: ../settings.php:938 ../settings.php:1009
+msgid "Other"
+msgstr "Andere"
+
+#: ../settings.php:938
+msgid "enter"
+msgstr "vul"
+
+#: ../settings.php:938
+msgid "below"
+msgstr "hieronder in"
+
+#: ../settings.php:946
+msgid "Calendar Options"
+msgstr "Kalender opties"
+
+#: ../settings.php:949
+msgid "Month and Date Header"
+msgstr "Maand en datum kop"
+
+#: ../settings.php:955
+msgid "Day Border"
+msgstr "Rand om dag"
+
+#: ../settings.php:959
+msgid "Cellspacing"
+msgstr "Vrije ruimte in de cel"
+
+#: ../settings.php:967 ../settings.php:1059
+msgid "Show above calendar"
+msgstr "Weergeven boven de kalender"
+
+#: ../settings.php:968 ../settings.php:1060
+msgid "Show below calendar"
+msgstr "Weergeven onder de kalender"
+
+#: ../settings.php:980
+msgid "Event Options"
+msgstr "Evenement opties"
+
+#: ../settings.php:983
+msgid "Multi-day Events"
+msgstr "Meerdaags evenement"
+
+#: ../settings.php:984
+msgid "Show event on all days"
+msgstr "Toon het evenement op alle dagen"
+
+#: ../settings.php:1001
+msgid "Character Number"
+msgstr "Aantal karakters"
+
+#: ../settings.php:1005
+msgid "Small Screens"
+msgstr "Smalle schermen"
+
+#: ../settings.php:1006
+msgid "What to display on small screens"
+msgstr "Selecteer wat te tonen op smalle schermen"
+
+#: ../settings.php:1007
+msgid "Full message"
+msgstr "Complete melding"
+
+#: ../settings.php:1008
+msgid "Blank"
+msgstr "leeg"
+
+#: ../settings.php:1009
+msgid "enter escaped"
+msgstr "druk op de escape toets"
+
+#: ../settings.php:1009
+msgid "or hex code below"
+msgstr "of HEX code hieronder"
+
+#: ../settings.php:1012 ../settings.php:1039 ../settings.php:1046
+msgid "Background"
+msgstr "Achtergrond"
+
+#: ../settings.php:1016 ../settings.php:1039 ../settings.php:1046
+msgid "Text"
+msgstr "Tekst"
+
+#: ../settings.php:1020
+msgid "Text Styles"
+msgstr "Tekst stijl"
+
+#: ../settings.php:1024
+msgid "Event Hover"
+msgstr "Evenement hover"
+
+#: ../settings.php:1037
+msgid "Calendar Colours"
+msgstr "Kalender kleuren"
+
+#: ../settings.php:1040
+msgid "Days of the Week"
+msgstr "Weekdagen"
+
+#: ../settings.php:1041
+msgid "Normal Day"
+msgstr "Gewone dag"
+
+#: ../settings.php:1042
+msgid "Event Day"
+msgstr "Evenement dag"
+
+#: ../settings.php:1043
+msgid "Past Day"
+msgstr "Voorbije dagen"
+
+#: ../settings.php:1045
+msgid "Event Category Colours"
+msgstr "Evenement categorie kleuren"
+
+#: ../settings.php:1046
+msgid "Category"
+msgstr "Categorie"
+
+#: ../settings.php:1063
+msgid "Caption:"
+msgstr "Opschrift"
+
+#: ../settings.php:1071
+msgid "Start the Week"
+msgstr "Week begint op"
+
+#: ../settings.php:1072
+msgid "On Sunday"
+msgstr "Zondag"
+
+#: ../settings.php:1073
+msgid "On Monday"
+msgstr "Maandag"
+
+#: ../settings.php:1074
+msgid "Are you sure you want to reset the calendar settings?"
+msgstr "Weet je zeker dat je de kalender instellingen wilt resetten"
+
+#: ../settings.php:1079
+msgid "Calendar Preview"
+msgstr "Kalender preview"
+
+#: ../settings.php:1080
+msgid ""
+"The <em>prev</em> and <em>next</em> buttons only work on your Posts and "
+"Pages - so don&#146;t click on them!"
+msgstr ""
+"De <em>Vorig</em> en <em>Volgend</em> knoppen werken alleen op je Berichten "
+"en Pagina's - dus er op klikken geeft hier niet het effect wat je er van "
+"verwacht!"
+
+#: ../settings.php:1202
+msgid "The registration form settings have been updated"
+msgstr "De registratieformulier instellingen zijn opgeslagen"
+
+#: ../settings.php:1206
+msgid "The registration form settings have been reset"
+msgstr "De registratieformulier instellingen zijn gereset"
+
+#: ../settings.php:1229
+msgid "Add a registration form to ALL your events"
+msgstr "Voeg een registratieformulier toe aan <em>al</em> je evenementen"
+
+#: ../settings.php:1230
+msgid "To add a registration form to individual events use the event editor"
+msgstr ""
+"Om een registratieformulier toe te voegen aan een individueel evenement, "
+"gebruik je de evenement editor"
+
+#: ../settings.php:1234
+msgid "Add a border to the form"
+msgstr "Voeg een kader toe aan je formulier"
+
+#: ../settings.php:1246
+msgid "Do not display registration form on old events"
+msgstr "Verberg het registratieformulier van voorbije evenementen"
+
+#: ../settings.php:1250
+msgid "Pre-fill user name if logged in"
+msgstr "De gebruikersnaam is al ingevuld wanneer je bent ingelogd"
+
+#: ../settings.php:1254
+msgid "Only users who have logged in can register"
+msgstr "Alleen ingelogde gebruikers kunnen zich aanmelden"
+
+#: ../settings.php:1258
+msgid "Allow multiple registrations"
+msgstr "Sta meerdere aanmeldingen van dezelfde aanmelder toe"
+
+#: ../settings.php:1262
+msgid "Hide registration form when event is full"
+msgstr "Verberg het registratieformulier wanneer er geen vrije plaatsen meer zijn"
+
+#: ../settings.php:1266 ../settings.php:1532 ../settings.php:1545 ../settings.php:
+#: 1574
+msgid "Message to display"
+msgstr "Weer te geven tekst"
+
+#: ../settings.php:1273
+msgid "Notifications"
+msgstr "Meldingen"
+
+#: ../settings.php:1275
+msgid "Your Email Address"
+msgstr "Je email adres"
+
+#: ../settings.php:1276
+msgid "This is where registration notifications will be sent"
+msgstr "Hier worden de registratiemeldingen naar toe gestuurd"
+
+#: ../settings.php:1287
+msgid "Form title"
+msgstr "Formulier titel"
+
+#: ../settings.php:1291
+msgid "Form blurb"
+msgstr "Actietekst voorbeeld formulier"
+
+#: ../settings.php:1294
+msgid "Submit Button"
+msgstr "Tekst verzenden knop"
+
+#: ../settings.php:1298
+msgid "Check those fields you want to use. Drag and drop to change the order"
+msgstr ""
+"Controleer de velden die je wilt gebruiken. Gebruik drag en drop voor de "
+"juiste volgorde"
+
+#: ../settings.php:1314
+msgid "Field"
+msgstr "Veld"
+
+#: ../settings.php:1315 ../settings.php:1461
+msgid "Label"
+msgstr "Label"
+
+#: ../settings.php:1465
+msgid "Error and Thank-you messages"
+msgstr "Fout en bedankt melding"
+
+#: ../settings.php:1468
+msgid "Thank you message title"
+msgstr "Bedankt meldingstitel"
+
+#: ../settings.php:1472
+msgid "Thank you message blurb"
+msgstr "Bedankt actietekst"
+
+#: ../settings.php:1476
+msgid "Error Message"
+msgstr "Foutmelding"
+
+#: ../settings.php:1480
+msgid "Already Registered"
+msgstr "Al geregistreerd melding"
+
+#: ../settings.php:1485
+msgid ""
+"Use 'Not Attending' option to allow people to remove their names from the "
+"list"
+msgstr ""
+"Gebruik de \"Niet aanwezig\"optie om aangemelde personen hun naam te "
+"verwijderen uit de lijst van aangemelde personen"
+
+#: ../settings.php:1489
+msgid "Name Removed Message"
+msgstr "Tekst verwijder melding"
+
+#: ../settings.php:1494
+msgid "Display a 'return to event' message after registration"
+msgstr "Toon de link \"Terug naar lijst met evenementen\" na aanmelding"
+
+#: ../settings.php:1498
+msgid "Return to event message:"
+msgstr "Eigen tekst \"Terug naar lijst met evenementen\""
+
+#: ../settings.php:1502
+msgid "Confirmation Email"
+msgstr "Bevestigings email"
+
+#: ../settings.php:1508
+msgid "Show Attendees"
+msgstr "Toon deelnemers"
+
+#: ../settings.php:1512
+msgid "List attendees"
+msgstr "Lijst van deelnemers"
+
+#: ../settings.php:1516
+msgid "Show avatars"
+msgstr "Toon avatars"
+
+#: ../settings.php:1523
+msgid "Places Available and Numbers Attending"
+msgstr "Tonen van aantal beschikbare plaatsen en aantal aangemelde personen"
+
+#: ../settings.php:1528
+msgid "Show how many places are left for an event"
+msgstr "Toon aantal vrije plaatsen"
+
+#: ../settings.php:1538
+msgid ""
+"Show places available on event list - this only works if you have selected "
+"'Add an attendee counter to this form' on the event editor."
+msgstr ""
+"Toon het aantal beschikbare plaatsen in evenementenoverzicht. Dit wordt "
+"alleen weergegeven wanneer je 'Evenemententeller' optie via Evenementen-"
+"Toevoegen hebt aangevinkt."
+
+#: ../settings.php:1542
+msgid "Show number of people attending."
+msgstr "Toon het aantal aangemelde personen"
+
+#: ../settings.php:1583
+msgid "Are you sure you want to reset the registration form?"
+msgstr ""
+"Weet je zeker dat je de instellingen van het registratieformulier wilt "
+"resetten?"
+
+#: ../settings.php:1584
+msgid "Use Akismet Validation"
+msgstr "Gebruik Akismet spam bescherming"
+
+#: ../settings.php:1585
+msgid "Enter your API Key to check all messages against the Akismet database."
+msgstr "Geef hier de API-sleutel van Aksimet in."
+
+#: ../settings.php:1592
+msgid "Example form"
+msgstr "Voorbeeld formulier"
+
+#: ../settings.php:1593
+msgid ""
+"This is an example of the form. When it appears on your site it will use "
+"your theme styles."
+msgstr ""
+"Dit is een voorbeeld van het formulier. Wanneer het op de site wordt "
+"weergegeven wordt de stijl van het thema toegepast"
+
+#: ../settings.php:1640
+msgid "Show event title"
+msgstr "Toon evenement titel"
+
+#: ../settings.php:1641
+msgid "Show date"
+msgstr "Toon de datum"
+
+#: ../settings.php:1643 ../settings.php:1713
+msgid "Event Editor"
+msgstr "Evenement Editor"
+
+#: ../settings.php:1654
+msgid "Add registration details to the email"
+msgstr "Voeg registratiedetails toe aan de email"
+
+#: ../settings.php:1655
+msgid "Registration details blurb"
+msgstr "Registratiedetails actietekst"
+
+#: ../settings.php:1657
+msgid "Add event details to the email"
+msgstr "Voeg evenementdetails toe aan de email"
+
+#: ../settings.php:1658
+msgid "Event details blurb"
+msgstr "Evenementdetails actietekst"
+
+#: ../settings.php:1660
+msgid "Include link to event page"
+msgstr "Voeg een link naar de evenementenpagina toe"
+
+#: ../settings.php:1696
+msgid "The payment form settings have been updated"
+msgstr "De betalingsformulier instellingen zijn opgeslagen"
+
+#: ../settings.php:1700
+msgid "The payment form settings have been reset"
+msgstr "De betalingsformulier instellingen zijn gereset"
+
+#: ../settings.php:1708
+msgid "PayPal Payments"
+msgstr "Instellingen voor PayPal betalingen"
+
+#: ../settings.php:1712
+msgid "Transfer to PayPal after registration"
+msgstr "Verbinden met PayPal"
+
+#: ../settings.php:1713
+msgid ""
+"After registration the plugin will link to paypal using the event title, "
+"cost and number of places for the payment details."
+msgstr ""
+"Na registratie zal de plugin een verbinding met PayPal maken en voor de "
+"betalingsdatails gebruik maken van de volgende gegevens: evenementtitel, "
+"kosten en aantal plaatsen."
+
+#: ../settings.php:1716
+msgid "Your PayPal Email Address"
+msgstr "Je PayPal emailadres"
+
+#: ../settings.php:1720
+msgid "Currency code"
+msgstr "Valuta"
+
+#: ../settings.php:1722
+msgid "Allowed Paypal Currencies"
+msgstr "Toegestane PayPal valuta"
+
+#: ../settings.php:1725
+msgid "Add processing fee"
+msgstr "Verwerkingskosten"
+
+#: ../settings.php:1726
+msgid "Percentage of the total"
+msgstr "Percentage van het totaal"
+
+#: ../settings.php:1727
+msgid "Fixed amount"
+msgstr "Vaste kosten"
+
+#: ../settings.php:1730
+msgid "Submit Label"
+msgstr "Verzendlabel"
+
+#: ../settings.php:1734
+msgid "Waiting Message"
+msgstr "Wacht melding"
+
+#: ../settings.php:1739
+msgid ""
+"Discounts are applied at checkout before any processing fees are caclulated. "
+"The coupon field will appear just before the submission button on the "
+"registration form"
+msgstr ""
+"Kortingen worden toegepast bij de afrekening voordat de verwerking van "
+"vergoedingen worden berekend. Het couponveld zal verschijnen  voordat de "
+"knop verzenden op het inschrijfformulier verschijnt"
+
+#: ../settings.php:1740
+msgid "Use Coupons"
+msgstr "Maak gebruik van Coupons"
+
+#: ../settings.php:1740
+msgid "Set coupon codes"
+msgstr "Stel hier je Coupons in"
+
+#: ../settings.php:1742
+msgid "Instant Payment Notification"
+msgstr "Instant Payment Notificatie"
+
+#: ../settings.php:1743
+msgid ""
+"IPN only works if you have a PayPal Business or Premier account and IPN has "
+"been set up on that account"
+msgstr ""
+"IPN werkt alleen waneer je beschikt over een PayPal Business Account en IPN "
+"op dat account is ingesteld"
+
+#: ../settings.php:1744
+msgid "See the"
+msgstr "Klik op"
+
+#: ../settings.php:1744
+msgid "for more information on how to set up IPN"
+msgstr "voor meer informatie over het instellen van IPN"
+
+#: ../settings.php:1746
+msgid "The IPN listener URL you will need is"
+msgstr "Voor IPN heb je de onderstaande link nodig"
+
+#: ../settings.php:1747
+msgid "To see the Payments Report click on the"
+msgstr "Voor het betalingsoverzicht klik op"
+
+#: ../settings.php:1747
+msgid "link in your dashboard menu or"
+msgstr "link in je Dasboard menu"
+
+#: ../settings.php:1747
+msgid "click here"
+msgstr "klik hier"
+
+#: ../settings.php:1748
+msgid "Enable IPN"
+msgstr "Sta IPN toe"
+
+#: ../settings.php:1749
+msgid "Payment Report Column header"
+msgstr "Betalingsoverzicht kolomkop"
+
+#: ../settings.php:1751
+msgid "Payment Complete Label"
+msgstr "Betaling verricht label"
+
+#: ../settings.php:1755
+msgid "Are you sure you want to reset the settings?"
+msgstr "Weet je zeker dat je de instellingen wilt resetten?"
+
+#: ../settings.php:1756
+msgid "Use Paypal sandbox (developer use only)"
+msgstr "Maak gebruik van de PayPal sandbox (alleen voor ontwikkelaars)"
+
+#: ../settings.php:1760
+msgid "Separate Payment Form"
+msgstr "Gescheiden beatlingsformulier"
+
+#: ../settings.php:1761
+msgid "Warning!"
+msgstr "Waarschuwing!"
+
+#: ../settings.php:1761
+msgid "This function has been depreciated."
+msgstr "Deze functie is verouderd"
+
+#: ../settings.php:1762
+msgid "Payments are now integrated into the registation form."
+msgstr "Betalingen zijn nu geïntegreerd in het registratieformulier"
+
+#: ../settings.php:1762
+msgid ""
+"If you really, really need to use the Quick PayPal Payment plugin check this "
+"box:"
+msgstr ""
+"Als je echt gebruik wilt maken van de Quick PayPal plugin, zet dan hier een "
+"vinkje"
+
+#: ../settings.php:1819
+msgid "Leave fields blank if you don't want to use them"
+msgstr "Laat de velden leeg wanneer je ze niet wilt toepassen"
+
+#: ../settings.php:1823
+msgid "Percentage"
+msgstr "Percentage"
+
+#: ../settings.php:1824
+msgid "Fixed Amount"
+msgstr "Vast bedrag"
+
+#: ../settings.php:1865
+msgid "ERROR: Unable to create new theme file"
+msgstr "FOUT: Het is niet mogelijk een nieuw themabestand te maken"
+
+#: ../settings.php:1869
+msgid "The Automated Option"
+msgstr "De geautomatiseerde optie"
+
+#: ../settings.php:1872
+msgid ""
+"If your theme adds posting dates and other unwanted features to your event "
+"page you can set up and edit a template for single events."
+msgstr ""
+"Wanneer je thema zelf datums van plaatsing en andere niet gewenste zaken "
+"plaatst op je evenementenpagina, dan kun je beter een eigen sjabloon voor "
+"enkelvoudige evenementen maken."
+
+#: ../settings.php:1873
+msgid ""
+"This function clones the 'single.php' theme file and saves it as 'single-"
+"event.php'."
+msgstr ""
+"Deze functie maakt een kopie van je 'single.php' thema bestand en slaat dat "
+"op als 'single-event.php'."
+
+#: ../settings.php:1875
+msgid "If you aren't confident editing theme files it may be prudent to read the"
+msgstr ""
+"Ben je het niet gewend om zelf je thema aan te passen, dan is het misschien "
+"beter om de "
+
+#: ../settings.php:1875
+msgid "first."
+msgstr "eerst te lezen"
+
+#: ../settings.php:1877
+msgid ""
+"An Event Template already exists. Clicking the button below will overwrite "
+"the existing file."
+msgstr ""
+"Een evenementsjabloon bestaat al. Wanneer je op de knop hieronder klikt, "
+"wordt deze overschreven."
+
+#: ../settings.php:1877
+msgid "View Template file"
+msgstr "Bekijk je sjabloon"
+
+#: ../settings.php:1879
+msgid "Create Event Template"
+msgstr "Maak je eigen evenementsjabloon"
+
+#: ../settings.php:1883
+msgid ""
+"Your theme doesn't appear to have the 'single.php' file needed to create an "
+"event template. To create an event template follow the instrctions on the "
+"right."
+msgstr ""
+"Je thema lijkt geen 'single.php' bestand te hebben. Om toch een "
+"evenementsjabloon te kunnen maken, dien je de instructies hiernaast te "
+"volgen."
+
+#: ../settings.php:1887
+msgid "The DIY Option"
+msgstr "De \"Do It Yourself\" handleiding"
+
+#: ../settings.php:1888
+msgid ""
+"It's very easy to create your own template if you have FTP access to your "
+"theme"
+msgstr ""
+"Het is niet moeilijk om je eigen sjabloon te maken wanneer je via FTP "
+"toegang tot je thema hebt"
+
+#: ../settings.php:1889
+msgid "1. Connect to your domain using FTP"
+msgstr "1. Maak een FTP verbinding met je domein op de server"
+
+#: ../settings.php:1890
+msgid "2. Navigate to the theme directory. Normally wp-content/themes/your theme"
+msgstr "2. Ga naar je thema directorie. Meestal is dat wp-content/themes/je-themanaam"
+
+#: ../settings.php:1891
+msgid "3. Download the file called single.php to your computer"
+msgstr "3. Download het single.php bestand op de server naar je computer"
+
+#: ../settings.php:1892
+msgid "4. Open the file using a text editor"
+msgstr "4. Open het bestand m.b.v. een teksteditor"
+
+#: ../settings.php:1893
+msgid "5. Add the following to the very top of the file"
+msgstr "5. Voeg deze code toe als eerste regel van het bestand"
+
+#: ../settings.php:1901
+msgid "6. Save as: <code>single-event.php</code>"
+msgstr "6. Sla dit bestand op als: <code>single-event.php</code>"
+
+#: ../settings.php:1902
+msgid "7. Upload the file to your theme directory"
+msgstr "7. Upload dit bestand naar je thema directorie op de server"
+
+#: ../settings.php:1903
+msgid "The event manager will detect the new template and use it for single events"
+msgstr ""
+"De Evenement Manager zal het nieuwe sjabloon herkennen en het gaan gebruiken "
+"voor enkelvoudige evenementen"
+
+#: ../settings.php:2019 ../settings.php:2019
+msgid "Event Manager"
+msgstr "Evenement Manager"
