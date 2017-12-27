@@ -1,0 +1,312 @@
+.wpbooklist-top-container html, .wpbooklist-top-container body, .wpbooklist-top-container div, .wpbooklist-top-container span, .wpbooklist-top-container applet, .wpbooklist-top-container object, .wpbooklist-top-container iframe, .wpbooklist-top-container
+h1, .wpbooklist-top-container h2, .wpbooklist-top-container h3, .wpbooklist-top-container h4, .wpbooklist-top-container h5, .wpbooklist-top-container h6, .wpbooklist-top-container p, .wpbooklist-top-container blockquote, .wpbooklist-top-container pre, .wpbooklist-top-container
+a, .wpbooklist-top-container abbr, .wpbooklist-top-container acronym, .wpbooklist-top-container address, .wpbooklist-top-container big, .wpbooklist-top-container cite, .wpbooklist-top-container code, .wpbooklist-top-container
+del, .wpbooklist-top-container dfn, .wpbooklist-top-container em, .wpbooklist-top-container img, .wpbooklist-top-container ins, .wpbooklist-top-container kbd, .wpbooklist-top-container q, .wpbooklist-top-container s, .wpbooklist-top-container samp, .wpbooklist-top-container
+small, .wpbooklist-top-container strike, .wpbooklist-top-container strong, .wpbooklist-top-container sub, .wpbooklist-top-container sup, .wpbooklist-top-container tt, .wpbooklist-top-container var, .wpbooklist-top-container
+b, .wpbooklist-top-container u, .wpbooklist-top-container i, .wpbooklist-top-container center, .wpbooklist-top-container
+dl, .wpbooklist-top-container dt, .wpbooklist-top-container dd, .wpbooklist-top-container ol, .wpbooklist-top-container ul, .wpbooklist-top-container li, .wpbooklist-top-container
+fieldset, .wpbooklist-top-container form, .wpbooklist-top-container label, .wpbooklist-top-container legend, .wpbooklist-top-container
+table, .wpbooklist-top-container caption, .wpbooklist-top-container tbody, .wpbooklist-top-container tfoot, .wpbooklist-top-container thead, .wpbooklist-top-container tr, .wpbooklist-top-container th, .wpbooklist-top-container td, .wpbooklist-top-container
+article, .wpbooklist-top-container aside, .wpbooklist-top-container canvas, .wpbooklist-top-container details, .wpbooklist-top-container embed, .wpbooklist-top-container 
+figure, .wpbooklist-top-container figcaption, .wpbooklist-top-container footer, .wpbooklist-top-container header, .wpbooklist-top-container hgroup, .wpbooklist-top-container 
+menu, .wpbooklist-top-container nav, .wpbooklist-top-container output, .wpbooklist-top-container ruby, .wpbooklist-top-container section, .wpbooklist-top-container summary, .wpbooklist-top-container
+time, .wpbooklist-top-container mark, .wpbooklist-top-container audio, .wpbooklist-top-container video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+.wpbooklist-top-container article, .wpbooklist-top-container aside, .wpbooklist-top-container details, .wpbooklist-top-container figcaption, .wpbooklist-top-container figure, .wpbooklist-top-container 
+footer, .wpbooklist-top-container header, .wpbooklist-top-container hgroup, .wpbooklist-top-container menu, .wpbooklist-top-container nav, .wpbooklist-top-container section {
+    display: block;
+}
+.wpbooklist-top-container body {
+    line-height: 1;
+}
+.wpbooklist-top-container ol, .wpbooklist-top-container ul {
+    list-style: none;
+}
+.wpbooklist-top-container blockquote, .wpbooklist-top-container q {
+    quotes: none;
+}
+.wpbooklist-top-container blockquote:before, .wpbooklist-top-container blockquote:after, .wpbooklist-top-container
+q:before, .wpbooklist-top-container q:after {
+    content: '';
+    content: none;
+}
+.wpbooklist-top-container table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#wpbooklist-sort-search-div{
+    width: 300px;
+    margin-left: auto;
+    text-align:right;
+}
+
+.wpbooklist_stats_tdiv p{
+    display: inline-block;
+    border-left: 1px;
+    border-right: 1px;
+    border-style: solid;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 12px;
+    border-color: #e1e1e1;
+}
+
+#wpbooklist-search-div{
+    text-align:right;
+}
+
+#wpbooklist-search-checkboxes{
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+#wpbooklist-search-checkboxes input[type="checkbox"]{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+
+#wpbooklist-search-text{
+    margin-bottom:5px;
+    padding:5px;
+}
+
+.wpbooklist-table-for-app{
+    display:none;
+}
+
+.wpbooklist-top-container .wpbooklist_stats_tdiv{
+    border-bottom: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 5px;
+    width: 100%;
+    display: inline-block;
+    margin-top: 20px;
+    border-top: 1px;
+    border-style: solid;
+    margin-bottom: 15px;
+    text-align: center;
+    border-color:#e1e1e1;
+}
+
+.wpbooklist_top_container p, .wpbooklist_top_container a {
+    font-size: 13px;
+}
+
+#wpbooklist-quote-actual{
+    font-style:italic;
+}
+
+#wpbooklist-attribution-actual{
+    font-weight:bold;
+}
+
+.wpbooklist-ui-quote-area-div .wpbooklist-ui-quote-area-p{
+    text-align:center;
+    margin-bottom:25px;
+}
+
+#wpbooklist_cover_image {
+    padding: 0;
+    height: 170px;
+    width: 103px;
+    padding-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    opacity: 0;
+    z-index: 1;
+    border: none;
+    background-color: transparent;
+}
+
+.wpbooklist_inner_main_display_div {
+    box-shadow: 0px 0px 5px #888;
+    height: 100%;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.wpbooklist-hidden-isbn1{
+    display:none;
+}
+
+#wpbooklist_main_display_div{
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#wpbooklist_main_display_div .wpbooklist_entry_div {
+    display: inline-block;
+    box-shadow: 0px 0px 30px #888888;
+    border-collapse: separate;
+    background-color: white;
+    background-clip: padding-box;
+    border-width: 30px;
+    border-color: transparent;
+    width: 140px;
+    height: 330px;
+    padding: 10px;
+    position: relative;
+    vertical-align: top;
+}
+
+.hidden_id_title{
+    display:none;
+}
+
+.wpbooklist_entry_div .wpbooklist_inner_main_display_div p{
+    z-index:999;
+    display: block;
+    left: 0;
+    right: 0;
+    font-size:15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    position: absolute;
+    text-align: center;
+    bottom: 80px;
+    display: -webkit-box;
+    max-width: 400px;
+    height: 45px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    line-height: 1.4;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#wpbooklist_saved_title_link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#wpbooklist_cover_image:hover {
+    cursor: pointer;
+    box-shadow: 9px 16px 20px #888888;
+}
+
+#wpbooklist-pagination-div{
+    text-align: center;
+    margin-top:20px;
+}
+
+.wpbooklist-top-container .wpbooklist-pagination-page-div{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: solid;
+    box-shadow: 0px 0px 8px #888;
+    border-color: transparent;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#wpbooklist-select-sort-div{
+    
+}
+
+.wpbooklist_inner_main_display_div .wpbooklist-rating-image{
+    width: 50px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    top: 8px;
+}
+
+.wpbooklist-page-content{
+    display:none!important;
+}
+
+
+.wpbooklist-purchase-img, .wpbooklist-purchase-img:hover {
+    text-decoration: none;
+}
+
+.wpbooklist-purchase-img img {
+    width: 43px;
+    text-decoration: none;
+}
+
+.wpbooklist-shortcode-below-link-excerpt{
+    position: relative;
+    bottom: 5px;
+    margin-left: 165px;
+    margin-top:25px;
+    margin-bottom:10px;
+    display: -webkit-box;
+    font-size: 14px;
+    line-height: 2;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+    box-orient: vertical;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width:500px;
+}
+
+.wpbooklist-shortcode-entire-container{
+    width:100%;
+}
+
+.wpbooklist-shortcode-below-link-div{
+
+}
+
+@media screen and (max-width: 600px) {
+    .wpbooklist-shortcode-link-holder-media{
+        bottom:-60px!important;
+        margin-left:0px!important;
+    }
+
+    .wpbooklist-shortcode-below-link-excerpt{
+        margin-left: 20px!important;
+        margin: 20px!important;
+        text-align: center!important;
+        max-width:initial!important;
+    }
+
+    .wpbooklist_jre_book_cover_shortcode_link{
+        float:none!important;
+        display: block;
+        text-align: center!important;
+    }
+
+    .wpbooklist-shortcode-link-holder-media{
+        position:initial!important;
+        text-align: center!important;
+    }
+
+    .wpbooklist-shortcode-h3{
+        margin:10px!important;
+        text-align: center!important;
+    }
+
+    .wpbooklist-shortcode-entire-container{
+        float:none!important;
+        margin-bottom:115px!important;
+    }
+}
